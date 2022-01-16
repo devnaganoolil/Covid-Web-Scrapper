@@ -1,0 +1,29 @@
+Cases In The World
+Coronavirus Cases:324,233,702 
+Deaths:5,547,126
+Recovered:265,315,946
+
+Cases In The United States
+Coronavirus Cases:66,162,759 
+Deaths:871,597
+Recovered:43,019,924
+
+Cases In India
+Coronavirus Cases:36,849,474 
+Deaths:485,780
+Recovered:34,938,113
+
+Cases In Brazil
+Coronavirus Cases:22,927,203 
+Deaths:620,847
+Recovered:21,710,831
+
+Cases In The United Kingdom
+Coronavirus Cases:15,066,395 
+Deaths:151,612
+Recovered:11,208,701
+
+Cases In Russia
+Coronavirus Cases:10,747,125 
+Deaths:319,911
+Recovered:9,809,300
